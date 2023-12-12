@@ -237,7 +237,7 @@ header .navbar ul li a:hover{
 
 .education .box-container .box{
     width:27rem;
-    margin:4rem 1rem;
+    margin:1rem 1rem;
     padding-left: 4rem;
     border-left: .2rem solid #fff;
     position: relative;
@@ -265,7 +265,7 @@ header .navbar ul li a:hover{
 
 .education .box-container .box i{
     position: absolute;
-    top:-1.5rem; left:-2.5rem;
+    top:1rem; left:-2.5rem;
     height:5rem;
     width: 8rem;
     border-radius: 50%;
