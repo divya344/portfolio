@@ -277,9 +277,9 @@ header .navbar ul li a:hover{
 }
 
 .portfolio .box-container p{
-      justify-content: center;
-       color:#fff;
-    font-size:1rem;
+       font-size: 1.4rem;
+    color:#eee;
+    padding: 1rem 0;
 }
 
 .portfolio .box-container .box{
