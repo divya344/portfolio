@@ -267,7 +267,7 @@ header .navbar ul li a:hover{
     position: absolute;
     top:-1.5rem; left:-2.5rem;
     height:5rem;
-    width: 5rem;
+    width: 8rem;
     border-radius: 50%;
     line-height: 5rem;
     text-align: center;
@@ -277,13 +277,9 @@ header .navbar ul li a:hover{
 }
 
 .portfolio .box-container p{
-    
-
-    justify-content: center;
-    flex-wrap: wrap;
-    padding:2rem 0;
-    color:#fff;
-    font-size:3rem;
+      justify-content: center;
+       color:#fff;
+    font-size:1rem;
 }
 
 .portfolio .box-container .box{
