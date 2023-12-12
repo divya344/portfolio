@@ -277,29 +277,12 @@ header .navbar ul li a:hover{
 }
 
 .portfolio .box-container p{
-       font-size: 1.4rem;
+   font-size:2rem;
     color:#eee;
     padding: 1rem 0;
 }
 
-.portfolio .box-container .box{
-    height: 20rem;
-    width:26rem;
-    border-radius: 1rem;
-    margin:2rem;
-    overflow: hidden;
-    cursor: pointer;
-}
 
-.portfolio .box-container .box img{
-    height:100%;
-    width:100%;
-    object-fit: cover;
-}
-
-.portfolio .box-container .box:hover img{
-    transform: scale(1.2);
-}
 
 .contact .row{
     display: flex;
